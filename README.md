@@ -253,11 +253,11 @@ Aplicações:
 
 # Linguagens e Ferramentas Utilizadas
 
-## Linguagens
+## Linguagens e Ambientes
 
-- Python
-- JavaScript
-- SQL
+- **Python:** Versão 3.14.5 (com ambiente virtual `.venv` configurado)
+- **JavaScript**
+- **SQL**
 
 ## Ferramentas
 
