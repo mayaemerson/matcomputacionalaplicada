@@ -42,10 +42,19 @@ Para consolidar os estudos de Teoria dos Conjuntos e Funções aplicadas à comp
 
 ---
 
-## Como Executar o Código deste Módulo
+## Como Executar e Visualizar os Arquivos deste Módulo
 
-Para rodar a simulação e gerar o gráfico utilizando o ambiente virtual (`.venv`), execute o seguinte comando na raiz do projeto:
+### 1. Simulação Python (Geração do Diagrama de Venn)
+Para rodar a simulação e gerar a imagem do gráfico utilizando o ambiente virtual (`.venv`), execute o seguinte comando no terminal a partir da raiz do projeto:
 
 ```bash
 .venv/bin/python 01_conjunto_subconjuntos/app.py
 ```
+
+### 2. Mapa Mental Interativo (HTML)
+Para visualizar o mapa mental com as descrições e pseudocódigos interativos, você pode abrir o arquivo HTML diretamente em seu navegador web.
+* **Via Terminal (Linux):**
+  ```bash
+  xdg-open 01_conjunto_subconjuntos/mapa_mental.html
+  ```
+* **Via Navegador/Interface Gráfica:** Dê dois cliques no arquivo `mapa_mental.html` na sua pasta ou abra o link local no navegador.
