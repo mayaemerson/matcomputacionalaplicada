@@ -53,5 +53,5 @@ Em um sistema de produção, as permissões variam ao longo do tempo. Matematica
 Para rodar a simulação e testar as relações dinâmicas de permissão utilizando o ambiente virtual (`.venv`), execute o seguinte comando na raiz do projeto:
 
 ```bash
-.venv/bin/python 01_relacoes_conjuntos/app.py
+.venv/bin/python unidade1/01_relacoes_conjuntos/app.py
 ```

@@ -51,5 +51,5 @@ A curva abaixo demonstra graficamente a aceleração do crescimento ao longo dos
 Para rodar a simulação e gerar o gráfico deste estudo de caso utilizando o ambiente virtual (`.venv`), execute o seguinte comando na raiz do projeto:
 
 ```bash
-.venv/bin/python 05_mathematical_functions/app.py
+.venv/bin/python unidade1/05_mathematical_functions/app.py
 ```

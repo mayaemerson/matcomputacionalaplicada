@@ -48,13 +48,13 @@ Para consolidar os estudos de Teoria dos Conjuntos e Funções aplicadas à comp
 Para rodar a simulação e gerar a imagem do gráfico utilizando o ambiente virtual (`.venv`), execute o seguinte comando no terminal a partir da raiz do projeto:
 
 ```bash
-.venv/bin/python 01_conjunto_subconjuntos/app.py
+.venv/bin/python unidade1/01_conjunto_subconjuntos/app.py
 ```
 
 ### 2. Mapa Mental Interativo (HTML)
 Para visualizar o mapa mental com as descrições e pseudocódigos interativos, você pode abrir o arquivo HTML diretamente em seu navegador web.
 * **Via Terminal (Linux):**
   ```bash
-  xdg-open 01_conjunto_subconjuntos/mapa_mental.html
+  xdg-open unidade1/01_conjunto_subconjuntos/mapa_mental.html
   ```
 * **Via Navegador/Interface Gráfica:** Dê dois cliques no arquivo `mapa_mental.html` na sua pasta ou abra o link local no navegador.
